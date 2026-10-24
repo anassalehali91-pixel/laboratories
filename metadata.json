@@ -1,0 +1,6 @@
+{
+  "name": "حاسبة تصحيح كثافة الغاز المسال",
+  "description": "تطبيق تصحيح كثافة الغاز المسال (LPG) وقراءة الهايدروميتر حسب درجة الحرارة بالفهرنهايت والتحويل بين الطن والكيلوغرام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
